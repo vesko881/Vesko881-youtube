@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html lang="bg">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Vesko881 - YouTube Канал</title>
+  <style>
+    body { font-family: Arial, sans-serif; text-align: center; background: #f0f0f0; padding: 50px; }
+    h1 { color: #ff0000; }
+    a { display: inline-block; margin: 10px; padding: 10px 20px; background: #ff0000; color: #fff; text-decoration: none; border-radius: 5px; }
+    a:hover { background: #cc0000; }
+  </style>
+</head>
+<body>
+  <h1>Добре дошли в канала на Vesko881!</h1>
+  <p>Гледайте последните видеа:</p>
+  <a href="https://youtube.com/@vesko881" target="_blank">Посети YouTube Канала</a>
+</body>
+</html>
